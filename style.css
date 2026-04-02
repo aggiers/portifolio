@@ -239,7 +239,7 @@ section.sobre .flex {
 
 
 
-/*          PORTIFOLIO          */
+/*          PORTFOLIO          */
 
 section.portfolio {
     padding: 80px 4%;
@@ -472,8 +472,8 @@ footer .line_footer .a {
         width: 100%;
     }
 
-    /* PORTIFÓLIO */
-    section.portifolio{
+    /* PORTFÓLIO */
+    section.portfolio{
         padding: 80px 8%;
     }
 
@@ -483,7 +483,7 @@ footer .line_footer .a {
         margin: 0 auto;
     }
 
-    section.portifolio .flex{
+    section.portfolio .flex{
         gap: 60px;
     }
 
